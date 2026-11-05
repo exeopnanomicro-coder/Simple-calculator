@@ -187,7 +187,7 @@ public class functions
    
     
     
-    twodegequa(1, -4, 2);
+    //twodegequa(1, -4, 2);
     
     
     }
